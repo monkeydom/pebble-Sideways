@@ -1,11 +1,62 @@
-
-{"friendlyVersion": "VERSION",
- "versionDefName": "VERSION",
- "media": [
-	   {
-	    "type":"raw",
-	    "defName":"DUMMY",
-	    "file":"resource_map.json"
-	   }
-	  ]
+{
+    "friendlyVersion": "1.0",
+    "versionDefName": "APP_RESOURCES",
+    "media": [
+        {
+            "type":"png",
+            "defName":"IMAGE_MENU_ICON",
+            "file":"images/menu_icon_sideways.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_BIG_0",
+        "file": "images/big_0.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_BIG_1",
+        "file": "images/big_1.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_BIG_2",
+        "file": "images/big_2.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_BIG_3",
+        "file": "images/big_3.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_BIG_4",
+        "file": "images/big_4.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_BIG_5",
+        "file": "images/big_5.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_BIG_6",
+        "file": "images/big_6.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_BIG_7",
+        "file": "images/big_7.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_BIG_8",
+        "file": "images/big_8.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_BIG_9",
+        "file": "images/big_9.png"
+        }
+        
+    ]
 }
