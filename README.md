@@ -6,7 +6,7 @@ It looks like this:
 ![Sideways Screenshot](Screenshot.png)
 
 ## Releases
-[Sideways-v1.0](releases/Sideways-v1.0.pbw)
+Sideways-v1.0 [download](https://github.com/monkeydom/pebble-Sideways/raw/v1.0/releases/Sideways-v1.0.pbw)
 
 ## License
 [MIT](http://www.opensource.org/licenses/mit-license.php)
