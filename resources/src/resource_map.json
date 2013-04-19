@@ -56,7 +56,59 @@
         "type": "png",
         "defName": "IMAGE_BIG_9",
         "file": "images/big_9.png"
+        },
+        
+        {
+        "type": "png",
+        "defName": "IMAGE_MED_0",
+        "file": "images/med_0.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_MED_1",
+        "file": "images/med_1.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_MED_2",
+        "file": "images/med_2.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_MED_3",
+        "file": "images/med_3.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_MED_4",
+        "file": "images/med_4.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_MED_5",
+        "file": "images/med_5.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_MED_6",
+        "file": "images/med_6.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_MED_7",
+        "file": "images/med_7.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_MED_8",
+        "file": "images/med_8.png"
+        },
+    	{
+        "type": "png",
+        "defName": "IMAGE_MED_9",
+        "file": "images/med_9.png"
         }
+
         
     ]
 }
